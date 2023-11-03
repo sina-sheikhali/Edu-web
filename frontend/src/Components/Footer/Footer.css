@@ -1,3 +1,9 @@
+/* Start Footer Styles */
+
+.footer {
+  margin-top: 2rem;
+}
+
 .footer-widgets {
   background-color: #f0f2f7;
   border-radius: 1rem;
@@ -42,7 +48,6 @@
 
 .footer-widgets__text {
   color: #7d7e7f;
-  text-align: justify;
 }
 
 .footer-widgets__links {
@@ -67,3 +72,5 @@
   color: var(--dark-color);
   font-weight: bold;
 }
+
+/* Finish Footer Styles */
